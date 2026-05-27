@@ -14,7 +14,7 @@ Spring Boot backend for food ordering application.
 - Order management
 - Payment integration
 
-  https://github.com/madhusudan785/foodordering-backend
+  https://gitdiagram.com/madhusudan785/foodordering-backend
 ```mermaid
 flowchart TD
 
